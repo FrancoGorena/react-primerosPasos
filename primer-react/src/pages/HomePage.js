@@ -21,7 +21,7 @@ const HomePage = (props) => {
                 <div className="testimonios">
                     <h2>Testimonios</h2>
                     <div className="testimono">
-                        <span className="cita"> Simplemente excelente</span>
+                        <span className="cita"> Simplemente excelente - </span>
                         <span className="autor">Juan Perez</span>
                      </div>
                 </div>
