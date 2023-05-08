@@ -32,8 +32,8 @@ const ContactosPage = (props) => {
                 <p>También puedes contactarte con nosotros usando los siguientes
                     medios</p>
                     <ul>
-                        <li>Teléfono: +54 9 3885137680</li>
-                        <li>Email: francogorena14@gmail.com</li>
+                        <li>Teléfono: +54 9 3875162</li>
+                        <li>Email: pepitobarrionuevo@gmail.com</li>
                         <li>Facebook:</li>
                         <li>Instagram:</li>
                         <li>Skype:</li>
