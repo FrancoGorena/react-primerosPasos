@@ -32,8 +32,8 @@ const ContactosPage = (props) => {
                 <p>También puedes contactarte con nosotros usando los siguientes
                     medios</p>
                     <ul>
-                        <li>Teléfono: 4273676</li>
-                        <li>Email: pepito14@gmail.com</li>
+                        <li>Teléfono: +54 9 3885137680</li>
+                        <li>Email: francogorena14@gmail.com</li>
                         <li>Facebook:</li>
                         <li>Instagram:</li>
                         <li>Skype:</li>
