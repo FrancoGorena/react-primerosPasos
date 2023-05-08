@@ -8,7 +8,7 @@ import Nav from './components/layout/Nav';
 import Footer from './components/layout/Footer';
 
 import ContactosPage from './pages/ContactosPage';
-import HomePage from './pages/HomePage';
+import HomePage from './pages/Homepage';
 import NosotrosPage from './pages/NosotrosPage';
 import NovedadesPage from './pages/NovedadesPage';
 
@@ -19,13 +19,12 @@ function App() {
       <BrowserRouter>
       <Nav />
         <Routes>
-          <Route path='/' element={<HomePage /> } />
+          <Route path='/' element={<HomePage />} />
           <Route path='Novedades' element={<NovedadesPage /> } />
           <Route path='Nosotros' element={<NosotrosPage /> } />
           <Route path='Contactos' element={<ContactosPage /> } />
         </Routes>
       </BrowserRouter>
-
       <Footer />
     </div>
   );

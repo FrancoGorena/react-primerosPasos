@@ -4,7 +4,7 @@ const HomePage = (props) => {
     return (
         <main className="holder">
             <div className="homeimg">
-                <img src="/Img/avion.png" />
+                <img src="/Img/avion.png" alt="avion"/>
             </div>
             <div className="columnas">
                 <div className="bienvenidos">
@@ -27,7 +27,7 @@ const HomePage = (props) => {
                 </div>
             </div>
         </main>
-    );
+    )
 }
 
 export default HomePage;
